@@ -54,4 +54,4 @@ export class OlMapComponent implements OnInit {
       loadTilesWhileInteracting: true
     });
   }
-}
+x}
